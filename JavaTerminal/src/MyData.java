@@ -17,7 +17,7 @@ public class MyData {
        System.out.println("Informe sua altura: ");
        double altura = scanner.nextDouble();
 
-       System.out.println("olá me chamo " + nome + " " + sobrenome);
+        System.out.println("olá me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho " + idade + " anos");
         System.out.println("Minha Altura é " + altura + "cm");
     }
