@@ -1,8 +1,7 @@
 import java.util.Locale;
-import java.util.Random;
 import java.util.Scanner;
 
-public class App {
+public class ContaTerminal {
     
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
