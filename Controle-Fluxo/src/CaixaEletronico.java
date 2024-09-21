@@ -13,6 +13,7 @@ public class CaixaEletronico {
         
             System.out.println("Novo Saldo R$" + saldo);
 
+        
         }else{
             System.out.println("Você não tem saldo suficiente");
         }
